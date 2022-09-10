@@ -10,7 +10,7 @@
   "scripts": {
     "test": "jest --noStackTrace",
     "test:coverage": "jest --coverage --silent --noStackTrace",
-    "build": "npx tsx"
+    "build": "npx tsc"
   },
   "repository": "https://github.com/EnrickyHip/easy-shuffle",
   "homepage": "https://github.com/EnrickyHip/easy-shuffle",
